@@ -3,6 +3,7 @@
 This repository contains a collection of numerical solver implementations developed for Computational Thermo-Fluid Dynamics (CTFD) and heat transfer applications. The projects focus on solving transient and steady-state heat equations using different numerical techniques and time discretization schemes.
 
 The implementations are primarily developed in Jupyter Notebooks using Python and demonstrate the application of Finite Difference Method (FDM), Finite Volume Method (FVM), sparse matrix techniques, and Green’s Function approaches for engineering simulations.
+<img width="1217" height="582" alt="image" src="https://github.com/user-attachments/assets/e33c0fe6-83bf-4899-9a09-889613b8a4a2" />
 
 ---
 
